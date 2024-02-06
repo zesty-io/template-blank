@@ -1,3 +1,4 @@
 {
-  "name": "Blank Template"
+  "name": "Blank Template",
+  "settings": "settings.yaml"
 }
